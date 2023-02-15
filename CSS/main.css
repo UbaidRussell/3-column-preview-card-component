@@ -1,8 +1,24 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
-/* CSS */
+
+.container{
+    display: flex;
+}
+
+.card-one{
+    background-color: hsl(31, 77%, 52%);
+    border: #5E5DF0;
+}
+
+.card-two{
+    background-color:hsl(184, 100%, 22%)
+}
+.card-three{
+    background-color:hsl(179, 100%, 13%)
+}
+/* Button CSS */
 .button {
-    background: #5E5DF0;
+    background: whitesmoke;
     border-radius: 999px;
     box-shadow: #5E5DF0 0 10px 20px -10px;
     box-sizing: border-box;

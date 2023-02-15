@@ -85,6 +85,11 @@ p{
     margin-left: 50px;
     font-family: 'Lexend Deca', sans-serif;
   }
+  .button-two:hover{
+    background-color: hsl(184, 100%, 22%);
+    border: solid 2.5px whitesmoke;
+    color: whitesmoke;
+  }
   /*Button three*/
 .button-three {
     margin-top: 100px;
@@ -99,4 +104,9 @@ p{
     font-size: 20px;
     margin-left: 50px;
     font-family: 'Lexend Deca', sans-serif;
+  }
+  .button-three:hover{
+    background-color:hsl(179, 100%, 13%);
+    border: solid 2.5px whitesmoke;
+    color: whitesmoke;
   }

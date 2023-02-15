@@ -31,6 +31,7 @@ p{
     background-color: hsl(31, 77%, 52%);
     border: #5E5DF0;
     height: 700px;
+
     border-top-left-radius: 20px;
     border-bottom-left-radius:20px ;
 }
@@ -43,7 +44,7 @@ p{
     background-color:hsl(179, 100%, 13%);
     height: 700px;
     border-top-right-radius: 20px;
-    border-bottom-right-radius:20px ;
+    border-bottom-right-radius:20px;
 }
 /* Button CSS */
 /*Button one*/
@@ -53,21 +54,14 @@ p{
     border-radius: 999px;
     box-shadow: #5E5DF0 0 10px 20px -10px;
     box-sizing: border-box;
-    color: #FFFFFF;
+    color: hsl(31, 77%, 52%);;
     cursor: pointer;
-    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 24px;
-    opacity: 1;
     outline: 0 solid transparent;
-    padding: 8px 18px;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    width: fit-content;
-    word-break: break-word;
+    padding: 25px 50px;
     border: 0;
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: 'Lexend Deca', sans-serif;
   }
   /*Button Two*/
 .button-two {

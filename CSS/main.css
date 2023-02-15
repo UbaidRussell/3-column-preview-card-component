@@ -63,6 +63,11 @@ p{
     margin-left: 50px;
     font-family: 'Lexend Deca', sans-serif;
   }
+  .button-one:hover{
+    background-color: hsl(31, 77%, 52%);
+    border: solid 2.5px whitesmoke;
+    color: whitesmoke;
+  }
 
 
   /*Button Two*/

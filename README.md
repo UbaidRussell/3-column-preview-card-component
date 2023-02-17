@@ -56,7 +56,7 @@ This CSS code was intersting to us and showed us we can do border radius specifi
 
 ## Author
 
-- Website - [UbaidRussell.com](UbaidRussell.com)
+- Website - [UbaidRussell.com](https://ubaidrussell.com/)
 - Frontend Mentor - [@UbaidRussell](https://www.frontendmentor.io/profile/UbaidRussell)
 - Twitter - [@Ubaidussell](https://www.twitter.com/UbaidRussell)
 

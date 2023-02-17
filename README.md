@@ -8,11 +8,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -36,36 +33,33 @@ Users should be able to:
 - Solution URL: [Click here for code solution](https://github.com/UbaidRussell/3-column-preview-card-component)
 - Live Site URL: [View the Live Site Here](https://ubaidrussell.com/3-column-preview-card-component/)
 
-## My process
 
 ### Built with
 
 - HTML
 - CSS custom properties
 - Flexbox
--Visual Studio Code
+- Visual Studio Code
 
 
 ### What I learned
-
+This CSS code was intersting to us and showed us we can do border radius specifically to the top, right, left or bottom of an element.
 ```css
-
+.card-one{
+    background-color: hsl(31, 77%, 52%);
+    border: #5E5DF0;
+    height: 700px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius:20px ;
+}
 ```
-```js
-
-```
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [UbaidRussell.com](UbaidRussell.com)
+- Frontend Mentor - [@UbaidRussell](https://www.frontendmentor.io/profile/UbaidRussell)
+- Twitter - [@Ubaidussell](https://www.twitter.com/UbaidRussell)
 
 
 ## Acknowledgments
+Shoutout to all the developers who created the tools for me to create and make this possible.

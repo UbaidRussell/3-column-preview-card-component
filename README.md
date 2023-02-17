@@ -30,29 +30,24 @@ Users should be able to:
 
 ![Screen shot](images/3-column-card-screenshot.png)
 
-Add a screenshot of your solution. 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here for code solution](https://github.com/UbaidRussell/3-column-preview-card-component)
+- Live Site URL: [View the Live Site Here](https://ubaidrussell.com/3-column-preview-card-component/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - CSS custom properties
 - Flexbox
-- CSS Grid
+-Visual Studio Code
 
 
 ### What I learned
 
-
-```html
-<h1>We can put some HTML here</h1>
-```
 ```css
 
 ```

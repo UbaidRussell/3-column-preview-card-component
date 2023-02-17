@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screen shot](images/3-column-card-screenshot.png)
 
 Add a screenshot of your solution. 
 

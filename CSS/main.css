@@ -22,7 +22,7 @@ p{
 }
 .container{
     display: flex;
-    margin: 100px;
+    /*margin: 100px;*/
     border-radius: 20px;
 }
 .card{
@@ -113,11 +113,12 @@ p{
 @media screen and (min-width:0px ) and (max-width: 700px){
   .container{
     flex-wrap: wrap;
+    margin: 0px;
   }
   .card-one{
     border-top-right-radius: 20px;
     border-bottom-right-radius:20px;
-    padding-bottom: 400px;
+    padding-bottom: 200px;
     padding-right: 100px;
   }
   .card-two{
@@ -126,7 +127,7 @@ p{
     border-top-left-radius: 20px;
     border-bottom-left-radius:20px ;
     margin-top: 20px;
-    padding-bottom: 400px;
+    padding-bottom: 200px;
     padding-right: 100px;
   }
   .card-three{
@@ -135,7 +136,7 @@ p{
     border-top-left-radius: 20px;
     border-bottom-left-radius:20px ;
     margin-top: 20px;
-    padding-bottom: 400px;
+    padding-bottom: 200px;
     padding-right: 100px;
   }
 }

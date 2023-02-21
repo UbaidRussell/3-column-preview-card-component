@@ -109,3 +109,31 @@ p{
     border: solid 2.5px whitesmoke;
     color: whitesmoke;
   }
+
+@media screen and (min-width:0px ) and (max-width: 700px){
+  .container{
+    flex-wrap: wrap;
+  }
+  .card-one{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px ;
+  }
+  .card-two{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px ;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius:20px ;
+    margin-top: 20px;
+  }
+  .card-three{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px ;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius:20px ;
+    margin-top: 20px;
+  }
+}
+
+  /* we need a media query to put this in when our browser hits a certain width on the browser screen:
+
+  flex-wrap: wrap*/

@@ -116,7 +116,9 @@ p{
   }
   .card-one{
     border-top-right-radius: 20px;
-    border-bottom-right-radius:20px ;
+    border-bottom-right-radius:20px;
+    padding-bottom: 400px;
+    padding-right: 100px;
   }
   .card-two{
     border-top-right-radius: 20px;
@@ -124,6 +126,8 @@ p{
     border-top-left-radius: 20px;
     border-bottom-left-radius:20px ;
     margin-top: 20px;
+    padding-bottom: 400px;
+    padding-right: 100px;
   }
   .card-three{
     border-top-right-radius: 20px;
@@ -131,6 +135,8 @@ p{
     border-top-left-radius: 20px;
     border-bottom-left-radius:20px ;
     margin-top: 20px;
+    padding-bottom: 400px;
+    padding-right: 100px;
   }
 }
 

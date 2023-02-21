@@ -139,6 +139,10 @@ p{
     padding-bottom: 200px;
     padding-right: 100px;
   }
+  img{
+    width: 70px;
+    height: 70px;
+}
 }
 
   /* we need a media query to put this in when our browser hits a certain width on the browser screen:

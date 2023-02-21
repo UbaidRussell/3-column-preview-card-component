@@ -22,7 +22,7 @@ p{
 }
 .container{
     display: flex;
-    /*margin: 100px;*/
+    margin: 100px;
     border-radius: 20px;
 }
 .card{
